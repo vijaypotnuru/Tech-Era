@@ -6,6 +6,8 @@ import Header from '../Header'
 
 import CourseItem from '../CourseItem'
 
+import './index.css'
+
 const apiStatusConstants = {
   initial: 'INITIAL',
   success: 'SUCCESS',
